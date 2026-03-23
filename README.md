@@ -1,2 +1,2 @@
 # git-demo
-This is git demo.  Leaning is very necessary.
+This is git demo.  Learning is very necessary.
